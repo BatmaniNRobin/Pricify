@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pricify-217222",
+  "private_key_id": "1d8fb47c5602f8c7d7420f9a748c0f5952c01c28",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIgAP7itlemuoL\nvwEcc9/vLMal9gGtyTMdin8YM7FvE7o26h6uQQe/A58nhwseuxuoLdgV9XrZf/s9\nEG+Ux3U/brbAWkfuuQRoHdLrGg2a+V8zf8THbBcpNC85jnOvHiYkjeXdjeb8t58E\nKpK09P9yggvk4ElbIdsZ09LTiTqGSVdyEzE2vlE5hv5nsCXT+52T0B5A8J23ZxC7\nIgUk3Xf4UTov/Ukn7FKcF8jzsHvfKxj2Jhq+kacrr5d+bPGw8Oi4erYZe4Wr6wAP\nOrB1CnNpOzYTUhctr2DrbVdBijYfles2UwYa0yMSFF+jtkbhI0CvEBrX6cf8nkWU\nD/xidDmBAgMBAAECgf8LiWwlhBfNNzjxy6kc6OrNda7ImcneAZC24DGnHYVAN6wb\nrna46LRtVGlUY0sRuhyDFzasDMsyoPuRpIHGpCXAxeEXt1iL8c7ZNdOhoVKLJWct\n6OD1oJ2MItc/+HYJMt7zQ78yi4NZnkIxbRTI2ctZ0oViLHC4yxUeG5tEeY+hinAF\nD+H6mOis22okJyMv1orOIkImozUp8nFpdrHG1hq1VAXs7fq1ZEmNiRACBH0m/Gg3\nvbmHm8h7Wwn/PJsNxdtCMMP6S9Fe3F/Wv08LPonxA3B6ZDI0KUojdpWsptkpBKr9\nzY7/SRjfY2QeH2mqotr9t1k6LhQBO7Cp2moAt9ECgYEA48jgwLzs+jVuPgC3JTlv\nynNHUz+0H6UUelPKmw3CAef2NLTCptWlYyFMgjz4reCcrXB1LUCMn4tClbq5M718\nUCHA81rDS69nfK8x/HeUykQ8jX4mwFB+zFqBY6rddjsdxiwUwHteKdLKEn9w6S3j\ncX65ZtaPn0aIYE8/bW/NR1kCgYEA4VXvGdOxdsPvfIibuTTgBoTGSstz5kyCxDvB\nMUBZ30FJM9YuDRSQ+j/fJY7mzC+1bAnyH+DBa4R4nnlm63AOiLaRGJrWtiC491iz\n0y+Qk9n40+xR/TTeZD9FeLaEol38PqcVN2dFVCKFD2QpEzVgSbrNats6NQPgktaS\nfGVo5mkCgYEAkhF83tvH82NUAHqg90PvxhlKgb32GdzYVuFoqSmXYXWIUqAfurCC\nUCFIWLQUnBvPHQFigtRD2QOKfU2x+dXm49PhUazAU8Z1TGVkXouoZFSBqBJfcy+r\nQAxBsNIfFfQu0afu3se9yIAdiOMkWsNMeLlU1vd8Ph0S0v++osTxFHECgYEA2GVn\nRf03St/laEnkilsN3RS7PO7fccX+OqdL45lx9WXD/+TquqMKi1i1WmM+n84dQxDW\nFekIttEz6LSbsvQc8Quqkd943NTV7KuhnejqxiIoxJQJNMoF3G2qsL9O5oKtkBly\n1Y72VFMGR36ft5Ol0Yh0Zu77mhgMHde0O4RD1ikCgYEAqmQ2oDEHeLypR+owlpPQ\n0xdFFa4G7GeAGqAFMMDeCfQglvWO9WFacom4YpJTkApsyoZTOsDNVM6Zjt4wxs11\nk9SweAFtCAS77BAd6IeTeB4tqiKtClHNPM7QV0m7KCb5l/9CpYuI6fshYyJRP0c4\nUdvH+bvtqfkBA6wX5XurJqE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "maniwood@pricify-217222.iam.gserviceaccount.com",
+  "client_id": "100042213595456056314",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/maniwood%40pricify-217222.iam.gserviceaccount.com"
+}
